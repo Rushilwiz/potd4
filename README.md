@@ -4,6 +4,7 @@ by frj2ka (Rushil Umaretiya)
 ## Graders, thank you for opening the readme!
 
 You can find a live demo at [https://potd4.testing.rushil.land](https://potd4.testing.rushil.land).
+This code is hosted at [https://github.com/rushilwiz/potd4](https://github.com/rushilwiz/potd4).
 
 This is a React/NextJS app that connects to my database hosted at [https://mysql.rushil.land](https://mysql.rushil.land).
 
