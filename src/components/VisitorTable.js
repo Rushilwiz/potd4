@@ -22,7 +22,11 @@ export default function VisitorTable() {
 
   const theme = useTheme({
     Table: `
-        --data-table-library_grid-template-columns: 50px 100px 1fr 2fr 110px 1fr 1fr 90px 80px 90px;
+        --data-table-library_grid-template-columns: 30px 80px 10rem 15rem 8rem 12rem 10rem 90px 80px 90px;
+      `,
+        BaseCell: `
+        padding: 0.5rem 0;
+        border-bottom: 1px solid #e5e7eb;
       `,
   });
 
